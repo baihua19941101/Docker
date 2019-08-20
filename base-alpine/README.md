@@ -8,6 +8,6 @@
 ## 镜像大小 12MB
 
 # 下载
-> docker pull baihua19941101/base-alpine:3.7
+> docker pull bhcaptain/base-alpine:3.7
 
 
